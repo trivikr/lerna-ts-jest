@@ -1,0 +1,14 @@
+{
+  "name": "add",
+  "version": "0.1.0",
+  "description": "adds two numbers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}

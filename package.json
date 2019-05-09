@@ -4,7 +4,12 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
+    "jest": "^24.8.0",
     "lerna": "^3.13.4"
-  }
+  },
+  "author": "Kamat, Trivikram"
 }
