@@ -1,5 +1,6 @@
 {
   "name": "lerna-ts-jest",
+  "private": true,
   "workspaces": [
     "packages/*"
   ],

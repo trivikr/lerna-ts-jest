@@ -1,0 +1,14 @@
+{
+  "name": "@lerna-ts-jest/subtract",
+  "version": "0.1.2",
+  "description": "subtracts second number from first",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Kamat, Trivikram",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
