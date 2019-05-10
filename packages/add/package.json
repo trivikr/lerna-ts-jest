@@ -1,6 +1,6 @@
 {
   "name": "@lerna-ts-jest/add",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "adds two numbers",
   "main": "src/index.js",
   "scripts": {
